@@ -1,4 +1,12 @@
-`TODO: put something here.`
+Hi 🖐,
+
+
+I am a computer programmer. And I am trying to utilize this Github Readme thing to close my LinkedIn account.
+
+`TODO: put something cool here.`
+
+Until then, see the card below to have an idea about my activity:
+[![GitHub Status](https://github-readme-stats.vercel.app/api?username=alioguzhan&&show_icons=true&theme=merko)](https://yildiz.dev)
 
 <!--
 **alioguzhan/alioguzhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
