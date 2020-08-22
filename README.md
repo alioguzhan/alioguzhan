@@ -1,26 +1,13 @@
 Hi 🖐,
 
 
-I am a computer programmer. And I am trying to utilize this Github Readme thing to close my LinkedIn account.
+I am a computer programmer. And I am trying to utilize this Github Readme thing.
 
 `TODO: put something cool here.`
 
-Until then, see the card below to have an idea about my activity:
+Until then, see below to have an idea about my activity and profile:
 
 
 [![GitHub Status](https://github-readme-stats.vercel.app/api?username=alioguzhan&&show_icons=true&theme=merko)](https://yildiz.dev)
 
-<!--
-**alioguzhan/alioguzhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alioguzhan&hide=TeX&layout=compact)
