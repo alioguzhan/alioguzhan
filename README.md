@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ali</h1>
+<h1 align="center">Hi, I'm Ali</h1>
 
 <h3 align="center">Computer Programmer from Istanbul, 🇹🇷</h3>
 
 - 📝 I occasionally write articles/posts on [https://yildiz.dev](https://yildiz.dev)
 
-### Blogs posts
+### latest blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Disabling tap-and-drag gesture in Gnome](https://yildiz.dev/2020/12/06/gnome-disable-tap-and-drag/)
 - [The Ultimate Migration: I finally sold my Macbook](https://yildiz.dev/2020/11/28/the-ultimate-migration/)
