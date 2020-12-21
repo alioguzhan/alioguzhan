@@ -1,11 +1,11 @@
-Hi 🖐,
+<h1 align="center">Hi 👋, I'm Ali</h1>
 
+<h3 align="center">Computer Programmer from Istanbul, 🇹🇷</h3>
 
-I am a computer programmer. And I am trying to utilize this Github Readme thing.
+- 📝 I occasionally write articles/posts on [https://yildiz.dev](https://yildiz.dev)
 
-`TODO: put something cool here.`
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-Until then, see below to have an idea about my activity and profile:
-
-
-[![GitHub Status](https://github-readme-stats.vercel.app/api?username=alioguzhan&&show_icons=true&count_private=true)](https://yildiz.dev)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alioguzhan&show_icons=true&locale=en&layout=compact" alt="alioguzhan" /></p>
